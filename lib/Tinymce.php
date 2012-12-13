@@ -3,7 +3,7 @@
 /**
  * tinymce class
  */
-class TinymceModule_Tinymce extends Knowledgeroot_Rte_Abstract {
+class Tinymce extends Knowledgeroot_Rte_Abstract {
 	/**
 	 * show editor with content
 	 *
